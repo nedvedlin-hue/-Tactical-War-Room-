@@ -1,0 +1,5 @@
+{
+  "name": "Tactical War Room",
+  "description": "A minimalist, stable wargaming tool with undo/redo capabilities, map uploading, and object manipulation using Fabric.js.",
+  "requestFramePermissions": []
+}
